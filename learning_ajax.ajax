@@ -304,12 +304,14 @@ The onreadystatechange event is triggered four times (1-4), one time for each ch
 
 
 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+files
+ajax_xml.html
+cd_catalog.xml
 
 
+loading with xml
 
-
-
-
+000if you click load doc several times, it seems to refuse to continually load the xml file and add data
 
 
 
